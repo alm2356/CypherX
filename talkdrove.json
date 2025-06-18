@@ -1,6 +1,6 @@
 {
-    "bot-name": "CypherX",
-    "description": "CypherX, your friendly assistant!",
+    "bot-name": "alman",
+    "description": "alman, your friendly assistant!",
     "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
     "keywords": [],
     "documentation-link": "https://cypherxbot.vercel.app",
@@ -9,7 +9,7 @@
     "SESSION_ID": {
       "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
       "value": "",
-      "required": false
+      "required": "true"
     }
   }
 }
